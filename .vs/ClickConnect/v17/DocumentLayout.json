@@ -1,0 +1,264 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Murilo\\Desktop\\Aulas\\ADVANCED BUSINESS DEVELOPMENT WITH .NET\\ClickConnect\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4151FC76-62DB-46EE-9592-E9EDB388059A}|ClickConnect\\ClickConnect.csproj|c:\\users\\murilo\\desktop\\aulas\\advanced business development with .net\\clickconnect\\clickconnect\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4151FC76-62DB-46EE-9592-E9EDB388059A}|ClickConnect\\ClickConnect.csproj|solutionrelative:clickconnect\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4151FC76-62DB-46EE-9592-E9EDB388059A}|ClickConnect\\ClickConnect.csproj|c:\\users\\murilo\\desktop\\aulas\\advanced business development with .net\\clickconnect\\clickconnect\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4151FC76-62DB-46EE-9592-E9EDB388059A}|ClickConnect\\ClickConnect.csproj|solutionrelative:clickconnect\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5E0282-06C8-4639-BDEC-840F651385B1}|ClickConnect.loja\\ClickConnect.loja.csproj|c:\\users\\murilo\\desktop\\aulas\\advanced business development with .net\\clickconnect\\clickconnect.loja\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F5E0282-06C8-4639-BDEC-840F651385B1}|ClickConnect.loja\\ClickConnect.loja.csproj|solutionrelative:clickconnect.loja\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4151FC76-62DB-46EE-9592-E9EDB388059A}|ClickConnect\\ClickConnect.csproj|c:\\users\\murilo\\desktop\\aulas\\advanced business development with .net\\clickconnect\\clickconnect\\models\\teclado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4151FC76-62DB-46EE-9592-E9EDB388059A}|ClickConnect\\ClickConnect.csproj|solutionrelative:clickconnect\\models\\teclado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4151FC76-62DB-46EE-9592-E9EDB388059A}|ClickConnect\\ClickConnect.csproj|c:\\users\\murilo\\desktop\\aulas\\advanced business development with .net\\clickconnect\\clickconnect\\models\\mouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4151FC76-62DB-46EE-9592-E9EDB388059A}|ClickConnect\\ClickConnect.csproj|solutionrelative:clickconnect\\models\\mouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4151FC76-62DB-46EE-9592-E9EDB388059A}|ClickConnect\\ClickConnect.csproj|c:\\users\\murilo\\desktop\\aulas\\advanced business development with .net\\clickconnect\\clickconnect\\views\\produto\\teclado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4151FC76-62DB-46EE-9592-E9EDB388059A}|ClickConnect\\ClickConnect.csproj|solutionrelative:clickconnect\\views\\produto\\teclado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4151FC76-62DB-46EE-9592-E9EDB388059A}|ClickConnect\\ClickConnect.csproj|c:\\users\\murilo\\desktop\\aulas\\advanced business development with .net\\clickconnect\\clickconnect\\models\\mousepad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4151FC76-62DB-46EE-9592-E9EDB388059A}|ClickConnect\\ClickConnect.csproj|solutionrelative:clickconnect\\models\\mousepad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4151FC76-62DB-46EE-9592-E9EDB388059A}|ClickConnect\\ClickConnect.csproj|c:\\users\\murilo\\desktop\\aulas\\advanced business development with .net\\clickconnect\\clickconnect\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4151FC76-62DB-46EE-9592-E9EDB388059A}|ClickConnect\\ClickConnect.csproj|solutionrelative:clickconnect\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4151FC76-62DB-46EE-9592-E9EDB388059A}|ClickConnect\\ClickConnect.csproj|c:\\users\\murilo\\desktop\\aulas\\advanced business development with .net\\clickconnect\\clickconnect\\views\\produto\\mousepad.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4151FC76-62DB-46EE-9592-E9EDB388059A}|ClickConnect\\ClickConnect.csproj|solutionrelative:clickconnect\\views\\produto\\mousepad.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4151FC76-62DB-46EE-9592-E9EDB388059A}|ClickConnect\\ClickConnect.csproj|c:\\users\\murilo\\desktop\\aulas\\advanced business development with .net\\clickconnect\\clickconnect\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4151FC76-62DB-46EE-9592-E9EDB388059A}|ClickConnect\\ClickConnect.csproj|solutionrelative:clickconnect\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4151FC76-62DB-46EE-9592-E9EDB388059A}|ClickConnect\\ClickConnect.csproj|c:\\users\\murilo\\desktop\\aulas\\advanced business development with .net\\clickconnect\\clickconnect\\views\\produto\\mouse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4151FC76-62DB-46EE-9592-E9EDB388059A}|ClickConnect\\ClickConnect.csproj|solutionrelative:clickconnect\\views\\produto\\mouse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4151FC76-62DB-46EE-9592-E9EDB388059A}|ClickConnect\\ClickConnect.csproj|c:\\users\\murilo\\desktop\\aulas\\advanced business development with .net\\clickconnect\\clickconnect\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4151FC76-62DB-46EE-9592-E9EDB388059A}|ClickConnect\\ClickConnect.csproj|solutionrelative:clickconnect\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4151FC76-62DB-46EE-9592-E9EDB388059A}|ClickConnect\\ClickConnect.csproj|c:\\users\\murilo\\desktop\\aulas\\advanced business development with .net\\clickconnect\\clickconnect\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4151FC76-62DB-46EE-9592-E9EDB388059A}|ClickConnect\\ClickConnect.csproj|solutionrelative:clickconnect\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4151FC76-62DB-46EE-9592-E9EDB388059A}|ClickConnect\\ClickConnect.csproj|c:\\users\\murilo\\desktop\\aulas\\advanced business development with .net\\clickconnect\\clickconnect\\models\\iproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4151FC76-62DB-46EE-9592-E9EDB388059A}|ClickConnect\\ClickConnect.csproj|solutionrelative:clickconnect\\models\\iproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4151FC76-62DB-46EE-9592-E9EDB388059A}|ClickConnect\\ClickConnect.csproj|c:\\users\\murilo\\desktop\\aulas\\advanced business development with .net\\clickconnect\\clickconnect\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4151FC76-62DB-46EE-9592-E9EDB388059A}|ClickConnect\\ClickConnect.csproj|solutionrelative:clickconnect\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Teclado.cs",
+              "DocumentMoniker": "C:\\Users\\Murilo\\Desktop\\Aulas\\ADVANCED BUSINESS DEVELOPMENT WITH .NET\\ClickConnect\\ClickConnect\\Models\\Teclado.cs",
+              "RelativeDocumentMoniker": "ClickConnect\\Models\\Teclado.cs",
+              "ToolTip": "C:\\Users\\Murilo\\Desktop\\Aulas\\ADVANCED BUSINESS DEVELOPMENT WITH .NET\\ClickConnect\\ClickConnect\\Models\\Teclado.cs",
+              "RelativeToolTip": "ClickConnect\\Models\\Teclado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T19:00:54.098Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Murilo\\Desktop\\Aulas\\ADVANCED BUSINESS DEVELOPMENT WITH .NET\\ClickConnect\\ClickConnect.loja\\Program.cs",
+              "RelativeDocumentMoniker": "ClickConnect.loja\\Program.cs",
+              "ToolTip": "C:\\Users\\Murilo\\Desktop\\Aulas\\ADVANCED BUSINESS DEVELOPMENT WITH .NET\\ClickConnect\\ClickConnect.loja\\Program.cs",
+              "RelativeToolTip": "ClickConnect.loja\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T02:24:12.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProdutoController.cs",
+              "DocumentMoniker": "C:\\Users\\Murilo\\Desktop\\Aulas\\ADVANCED BUSINESS DEVELOPMENT WITH .NET\\ClickConnect\\ClickConnect\\Controllers\\ProdutoController.cs",
+              "RelativeDocumentMoniker": "ClickConnect\\Controllers\\ProdutoController.cs",
+              "ToolTip": "C:\\Users\\Murilo\\Desktop\\Aulas\\ADVANCED BUSINESS DEVELOPMENT WITH .NET\\ClickConnect\\ClickConnect\\Controllers\\ProdutoController.cs",
+              "RelativeToolTip": "ClickConnect\\Controllers\\ProdutoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T20:02:12.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Murilo\\Desktop\\Aulas\\ADVANCED BUSINESS DEVELOPMENT WITH .NET\\ClickConnect\\ClickConnect\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "ClickConnect\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Murilo\\Desktop\\Aulas\\ADVANCED BUSINESS DEVELOPMENT WITH .NET\\ClickConnect\\ClickConnect\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "ClickConnect\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T20:00:07.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Mousepad.cs",
+              "DocumentMoniker": "C:\\Users\\Murilo\\Desktop\\Aulas\\ADVANCED BUSINESS DEVELOPMENT WITH .NET\\ClickConnect\\ClickConnect\\Models\\Mousepad.cs",
+              "RelativeDocumentMoniker": "ClickConnect\\Models\\Mousepad.cs",
+              "ToolTip": "C:\\Users\\Murilo\\Desktop\\Aulas\\ADVANCED BUSINESS DEVELOPMENT WITH .NET\\ClickConnect\\ClickConnect\\Models\\Mousepad.cs",
+              "RelativeToolTip": "ClickConnect\\Models\\Mousepad.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T19:01:10.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Murilo\\Desktop\\Aulas\\ADVANCED BUSINESS DEVELOPMENT WITH .NET\\ClickConnect\\ClickConnect\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ClickConnect\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Murilo\\Desktop\\Aulas\\ADVANCED BUSINESS DEVELOPMENT WITH .NET\\ClickConnect\\ClickConnect\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ClickConnect\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T20:00:29.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Mouse.cs",
+              "DocumentMoniker": "C:\\Users\\Murilo\\Desktop\\Aulas\\ADVANCED BUSINESS DEVELOPMENT WITH .NET\\ClickConnect\\ClickConnect\\Models\\Mouse.cs",
+              "RelativeDocumentMoniker": "ClickConnect\\Models\\Mouse.cs",
+              "ToolTip": "C:\\Users\\Murilo\\Desktop\\Aulas\\ADVANCED BUSINESS DEVELOPMENT WITH .NET\\ClickConnect\\ClickConnect\\Models\\Mouse.cs",
+              "RelativeToolTip": "ClickConnect\\Models\\Mouse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAB/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T19:00:42.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Mouse.cshtml",
+              "DocumentMoniker": "C:\\Users\\Murilo\\Desktop\\Aulas\\ADVANCED BUSINESS DEVELOPMENT WITH .NET\\ClickConnect\\ClickConnect\\Views\\Produto\\Mouse.cshtml",
+              "RelativeDocumentMoniker": "ClickConnect\\Views\\Produto\\Mouse.cshtml",
+              "ToolTip": "C:\\Users\\Murilo\\Desktop\\Aulas\\ADVANCED BUSINESS DEVELOPMENT WITH .NET\\ClickConnect\\ClickConnect\\Views\\Produto\\Mouse.cshtml",
+              "RelativeToolTip": "ClickConnect\\Views\\Produto\\Mouse.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T21:41:25.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Mousepad.cshtml",
+              "DocumentMoniker": "C:\\Users\\Murilo\\Desktop\\Aulas\\ADVANCED BUSINESS DEVELOPMENT WITH .NET\\ClickConnect\\ClickConnect\\Views\\Produto\\Mousepad.cshtml",
+              "RelativeDocumentMoniker": "ClickConnect\\Views\\Produto\\Mousepad.cshtml",
+              "ToolTip": "C:\\Users\\Murilo\\Desktop\\Aulas\\ADVANCED BUSINESS DEVELOPMENT WITH .NET\\ClickConnect\\ClickConnect\\Views\\Produto\\Mousepad.cshtml",
+              "RelativeToolTip": "ClickConnect\\Views\\Produto\\Mousepad.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T22:02:45.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Teclado.cshtml",
+              "DocumentMoniker": "C:\\Users\\Murilo\\Desktop\\Aulas\\ADVANCED BUSINESS DEVELOPMENT WITH .NET\\ClickConnect\\ClickConnect\\Views\\Produto\\Teclado.cshtml",
+              "RelativeDocumentMoniker": "ClickConnect\\Views\\Produto\\Teclado.cshtml",
+              "ToolTip": "C:\\Users\\Murilo\\Desktop\\Aulas\\ADVANCED BUSINESS DEVELOPMENT WITH .NET\\ClickConnect\\ClickConnect\\Views\\Produto\\Teclado.cshtml",
+              "RelativeToolTip": "ClickConnect\\Views\\Produto\\Teclado.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T21:56:58.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Murilo\\Desktop\\Aulas\\ADVANCED BUSINESS DEVELOPMENT WITH .NET\\ClickConnect\\ClickConnect\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ClickConnect\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Murilo\\Desktop\\Aulas\\ADVANCED BUSINESS DEVELOPMENT WITH .NET\\ClickConnect\\ClickConnect\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ClickConnect\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T20:00:05.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\Murilo\\Desktop\\Aulas\\ADVANCED BUSINESS DEVELOPMENT WITH .NET\\ClickConnect\\ClickConnect\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "ClickConnect\\Models\\Produto.cs",
+              "ToolTip": "C:\\Users\\Murilo\\Desktop\\Aulas\\ADVANCED BUSINESS DEVELOPMENT WITH .NET\\ClickConnect\\ClickConnect\\Models\\Produto.cs",
+              "RelativeToolTip": "ClickConnect\\Models\\Produto.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAcwCQAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T19:00:30.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Murilo\\Desktop\\Aulas\\ADVANCED BUSINESS DEVELOPMENT WITH .NET\\ClickConnect\\ClickConnect\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ClickConnect\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Murilo\\Desktop\\Aulas\\ADVANCED BUSINESS DEVELOPMENT WITH .NET\\ClickConnect\\ClickConnect\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ClickConnect\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACIAAACCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-15T20:00:11.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IProduto.cs",
+              "DocumentMoniker": "C:\\Users\\Murilo\\Desktop\\Aulas\\ADVANCED BUSINESS DEVELOPMENT WITH .NET\\ClickConnect\\ClickConnect\\Models\\IProduto.cs",
+              "RelativeDocumentMoniker": "ClickConnect\\Models\\IProduto.cs",
+              "ToolTip": "C:\\Users\\Murilo\\Desktop\\Aulas\\ADVANCED BUSINESS DEVELOPMENT WITH .NET\\ClickConnect\\ClickConnect\\Models\\IProduto.cs",
+              "RelativeToolTip": "ClickConnect\\Models\\IProduto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T19:27:49.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Murilo\\Desktop\\Aulas\\ADVANCED BUSINESS DEVELOPMENT WITH .NET\\ClickConnect\\ClickConnect\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ClickConnect\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Murilo\\Desktop\\Aulas\\ADVANCED BUSINESS DEVELOPMENT WITH .NET\\ClickConnect\\ClickConnect\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ClickConnect\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T19:13:02.416Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

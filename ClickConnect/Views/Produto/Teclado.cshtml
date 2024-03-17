@@ -1,0 +1,33 @@
+﻿@model IEnumerable<ClickConnect.Models.Teclado>
+
+@{
+    ViewData["Title"] = "Teclado";
+}
+
+<h1>Teclado</h1>
+
+<table>
+    <tr>
+        <th>ID</th>
+        <th>Nome</th>
+        <th>Marca</th>
+        <th>Cor</th>
+        <th>Tipo de Switch</th>
+        <th>Preço</th>
+        <th>Quantidade</th>
+    </tr>
+    @foreach (var teclado in Model)
+    {
+        <tr>
+            <td>@teclado.Id</td>
+            <td>@teclado.Nome</td>
+            <td>@teclado.Marca</td>
+            <td>@teclado.Cor</td>
+            <td>@teclado.TipoSwitch</td>
+            <td>@teclado.Preco</td>
+            <td>@teclado.Quantidade</td>
+        </tr>
+    }
+</table>
+
+
